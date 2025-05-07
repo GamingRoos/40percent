@@ -38,6 +38,7 @@ Cool!
 > - 40 Gateron Hotswap Sockets (Can't find on Digikey, AliExpress?) 
 > - 40 MX Compatible Switches (Outemu might not work in the sockets)
 > - 1 Suitable Keycap Set
+> - This MIGHT be a working O-Ring size? I'll have to find out when I make this. [oリング](https://xn--o-7eu7hjb.com/?pid=81334721)
 > ##### USB-C Daughter Board
 > - 1 USB4105-GF-A-060 USB-C 16pin [DigiKey](https://www.digikey.com.au/en/products/detail/gct/USB4105-GF-A-060/14559036)
 > - 2 5.1k Resistor 5% 1/8W (0805) [DigiKey](https://www.digikey.com.au/en/products/detail/yageo/RC0805JR-075K1L/728338)
