@@ -38,6 +38,8 @@ Cool!
 > - 40 Gateron Hotswap Sockets (Can't find on Digikey, AliExpress?) 
 > - 40 MX Compatible Switches (Outemu might not work in the sockets)
 > - 1 Suitable Keycap Set
+> - 3 2u Plate Mount Stabiliser
+> - 1 6.25u Plate Mount Stabiliser
 > - 4 8mm Rubber Bump-ons for the feet
 > - This MIGHT be a working O-Ring size? I'll have to find out when I make this. [oリング](https://xn--o-7eu7hjb.com/?pid=81334721)
 > ##### USB-C Daughter Board
