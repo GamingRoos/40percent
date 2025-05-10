@@ -48,6 +48,6 @@ Cool!
 > - 4 M2 4mm Bolts (Screw straight into posts, if you for some reason chose to mill the case, tap it out... it's at 1.6mm ID)
 > - One of the JST connectors from above
 > - 1 USB-C to USB-C\A cable
-> ### I'd recommend ordering a few more than you need at minimum, just incase you fuck it up. Better safe than sorry. Also, cut down on shipping cost :)
+> ### I'd recommend ordering a few more than you need at minimum, just incase you fuck it up. Better safe than sorry. Also, cut down on shipping cost :) Plus 5 PCB minimum from JLCPCB, five chances?
 
 # That's pretty much it so far!
